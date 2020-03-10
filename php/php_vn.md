@@ -1,4 +1,4 @@
-Coding Style Guide - Dựa theo chuẩn PSR-2[ https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md ]
+Coding Style Guide - [Dựa theo chuẩn PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 ==================
 
 Bộ quy tắc này được tạo ra nhằm giảm bới những khó khăn trong việc đọc code
